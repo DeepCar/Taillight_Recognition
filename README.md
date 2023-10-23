@@ -1,7 +1,7 @@
 <div align="center">
 
   
-# Nighttime Driver Behavior Prediction 
+  # Nighttime Driver Behavior Prediction 
 
 </div>
 
@@ -11,12 +11,12 @@
 
 <div align="center">
   
-# Image-to-Image Translation
+   # Image-to-Image Translation
 </div>
 
 <div align="center">
   
-# Single-stage Detector
+   # Single-stage Detector
 </div>
 
 This detector determines the smallest possible bounding box where the taillights and brake lights of the vehicles are located
