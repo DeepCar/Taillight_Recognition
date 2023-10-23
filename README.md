@@ -5,6 +5,12 @@
 ![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/9f9de87d-6822-4a37-bb6f-b1cc1c960301)
 
 # Image-to-Image Translation
+* Convert day-time images to nighttime images
+![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/d2c80c30-e93b-4b8d-ad92-e69dcf8bdcf1)
+
+* simulate different adverse weather models
+
+
 # Single-stage Detector
 
 This detector determines the smallest possible bounding box where the taillights and brake lights of the vehicles are located
