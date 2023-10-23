@@ -1,4 +1,5 @@
 # Nighttime Driver Behavior Prediction 
+![ezgif com-crop](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/25e0a88f-427f-4019-9876-27166256cada)
 
 * Introducing a novel patent based on deep learning to improve defensive driving at night and in adverse weather conditions for Ford vehicles
 
