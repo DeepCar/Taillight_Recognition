@@ -26,7 +26,8 @@ Test the detector:
 ```
 python detect.py --source inference/example.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --device 0
 ```
-Change "source" value to "0" to use camera: i.e. ```
+Change "source" value to "0" to use camera: i.e. 
+```
 python detect.py --source 0
 ```
 
