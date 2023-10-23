@@ -14,7 +14,7 @@
 
 # Single-stage Detector
 
-This detector determines the smallest possible bounding box where the taillights and brake lights of the vehicles are located
+Using [You Only Learn One Representation (YOLOR)](https://github.com/WongKinYiu/yolor) algorithm  to determines the smallest possible bounding box where the taillights and brake lights of the vehicles are located
 
 Before run models, unzip single-detector.rar
 
