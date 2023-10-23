@@ -48,11 +48,13 @@ Change "source" value to "0" to use camera: i.e.
 ```
 python detect.py --source 0
 ```
+
+<div align="center">
 # Multi-class classification
 
 ```
 Python class.py
-
+```
 # Dataset
 
 
