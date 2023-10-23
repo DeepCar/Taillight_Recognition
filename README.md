@@ -51,8 +51,8 @@ python detect.py --source 0
 # Multi-class classification
 
 ```
+Python class.py
 
-```
 # Dataset
 
 
