@@ -21,8 +21,11 @@ Before run models, unzip single-detector.rar
 ```
 python train.py --batch-size 8 --img 640 640 --data coco.yaml --cfg cfg/yolor_p6.cfg --weights runs/train/yolor_p62/weights --device 0 --name yolor_p6 --hyp hyp.finetune.1280 --epochs 110
 ```
-test
 
+Test the detector:
+```
+python detect.py --source inference/images/horses.jpg --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --device 0
+```
 
 # Dataset
 
