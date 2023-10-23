@@ -16,12 +16,13 @@
 
 This detector determines the smallest possible bounding box where the taillights and brake lights of the vehicles are located
 
-How to run:
-tarin
+Before run models, unzip single-detector.rar 
+
 ```
-python train.py --batch-size 8 --img 640 640 --data coco.yaml --cfg cfg/yolor_p6.cfg --weights '' --device 0 --name yolor_p6 --hyp hyp.scratch.1280.yaml --epochs 300
+python train.py --batch-size 8 --img 640 640 --data coco.yaml --cfg cfg/yolor_p6.cfg --weights runs/train/yolor_p62/weights --device 0 --name yolor_p6 --hyp hyp.finetune.1280 --epochs 110
 ```
 test
+
 
 # Dataset
 
