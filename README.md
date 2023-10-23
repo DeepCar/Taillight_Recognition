@@ -24,7 +24,10 @@ python train.py --batch-size 8 --img 640 640 --data coco.yaml --cfg cfg/yolor_p6
 
 Test the detector:
 ```
-python detect.py --source inference/images/horses.jpg --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --device 0
+python detect.py --source inference/example.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --device 0
+```
+Change "source" value to "0" to use camera: i.e. ```
+python detect.py --source 0
 ```
 
 # Dataset
