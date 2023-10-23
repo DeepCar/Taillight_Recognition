@@ -9,7 +9,7 @@
   
 ![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/d2c80c30-e93b-4b8d-ad92-e69dcf8bdcf1)
 
-* simulate different adverse weather models
+* Simulate different adverse weather models
 
 ![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/d8e78ded-3470-45d9-b511-c9a49ae7ae85)
 
