@@ -48,6 +48,7 @@ Change "source" value to "0" to use camera: i.e.
 ```
 python detect.py --source 0
 ```
+# Multi-class classification
 
 # Dataset
 
@@ -59,5 +60,5 @@ python detect.py --source 0
 
 ![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/ea37ea5e-3f1c-4332-bad4-72799f289599)
 
-# multi-class classification
+
 
