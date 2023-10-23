@@ -10,9 +10,12 @@
 ![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/9f9de87d-6822-4a37-bb6f-b1cc1c960301)
 
 <div align="center">
+  
 # Image-to-Image Translation
 </div>
+
 <div align="center">
+  
 # Single-stage Detector
 </div>
 
