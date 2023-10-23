@@ -12,7 +12,8 @@
 
 * Simulate different adverse weather models
 
-![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/d8e78ded-3470-45d9-b511-c9a49ae7ae85)
+![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/d7420b41-73ea-4c27-960b-12ee4828f98f)
+
 
 # Single-stage Detector
 
@@ -46,4 +47,5 @@ python detect.py --source 0
 * Including four classes: a) running  b) braking c) left turn  d) right turn
 * All model are selected from the products of [Ford Motor Company](https://www.ford.com/)
 
-![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/1cc51b41-9a7a-47ee-b6ed-c6b594467322)
+![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/ea37ea5e-3f1c-4332-bad4-72799f289599)
+
