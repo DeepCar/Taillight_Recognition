@@ -2,7 +2,8 @@
 
 * Introducing a novel patent based on deep learning to improve defensive driving at night and in adverse weather conditions for Ford vehicles
 
-![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/9f9de87d-6822-4a37-bb6f-b1cc1c960301)
+![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/f8ec26d3-e08c-440f-9cdb-d2b26864b15d)
+
 
 # Image-to-Image Translation
 * Convert day-time images to nighttime images
