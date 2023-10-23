@@ -1,8 +1,9 @@
-# Taillight Recognition
+# Nighttime Driver Behavior Prediction 
 * Introducing a novel patent based on deep learning to improve defensive driving at night and in adverse weather conditions for Ford vehicles
 
 ![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/9f9de87d-6822-4a37-bb6f-b1cc1c960301)
 
+# Image-to-Image Translation
 
 # Single-stage Detector
 This detector determines the smallest possible bounding box where the taillights and brake lights of the vehicles are located
