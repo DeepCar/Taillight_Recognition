@@ -53,7 +53,7 @@ python detect.py --source 0
 
 
 * Collecting Large-scale dataset from the rear view of vehicles along with labeling Region of Interest (ROIs) of taillights and brake lights
-* Supporting two types of Dash-cam ang Insta-360 Camerras
+* Supporting two types of Dash-cam and Insta-360 Camerras
 * Including four classes: a) running  b) braking c) left turn  d) right turn
 * All model are selected from the products of [Ford Motor Company](https://www.ford.com/)
 
