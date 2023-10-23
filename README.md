@@ -8,7 +8,8 @@
 # Image-to-Image Translation
 * Convert day-time images to nighttime images
   
-![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/d2c80c30-e93b-4b8d-ad92-e69dcf8bdcf1)
+![image](https://github.com/DeepCar/Taillight_Recognition/assets/96300226/814f22d8-f0a7-4928-8ff0-ab9d0c7bcea3)
+
 
 * Simulate different adverse weather models
 
